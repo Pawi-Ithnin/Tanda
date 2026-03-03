@@ -659,7 +659,7 @@ tindakan: "https://i.ibb.co/zhc0F39q/Tindakan-f816b3b5ca787bad6274.jpg",
 kepada: "https://i.ibb.co/00PPPWK/Kepada-e9e9297d86a59c0f77f0-1.jpg",
 panjang: "https://i.ibb.co/NgWmYz5L/Panjang-fa1b752a62fac3f57dc2.jpg",
 makna: "https://i.ibb.co/zTr0wst1/Makna-debb5e074613e66a66a1.jpg",
-saat: "https://i.ibb.co/TqkNQ3Ck/Saat-bb5cb9255d278f88f049-1.jpg".
+saat: "https://i.ibb.co/TqkNQ3Ck/Saat-bb5cb9255d278f88f049-1.jpg",
 
 };
 
@@ -781,6 +781,7 @@ setInterval(() => {
     document.body.appendChild(icon);
     setTimeout(() => icon.remove(), 5000);
 }, 2000);
+
 
 
 
