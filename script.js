@@ -650,8 +650,18 @@ alquran: "https://i.ibb.co/HpV9wSnz/Al-Quran-0ad7921822b517ae4be1-1.jpg",// al q
 ahlijawatankuasa: "https://i.ibb.co/ZzSGhkMY/Ahli-Jawatankuasa-51e52cc16404c0e46d12.jpg", // ahli jawatankuasa
 agama: "https://i.ibb.co/rKRQRD0q/Agama-85a3aa0261256caabe03-1.jpg",
 akadnikad: "https://i.ibb.co/ZpW78y54/Akad-nikah-258408b14c5ef3356645-1.jpg", //akad nikad
+assalammulaikum: "https://i.ibb.co/HDscrkbr/Assalamualaikum-4c7b028ea9b6b25d2054-3.jpg",
+malam: "https://i.ibb.co/7t9HPkmD/Malam-dae6e38ac19264808c82-1.jpg",
+askar: "https://i.ibb.co/5XtB36Rb/Askar-17ecc5612c23c87ff87c.jpg" , 
+letup: "https://i.ibb.co/j91rJyjM/Letup-ca905198463801ae3dc4.jpg",
+agenda: "https://i.ibb.co/CKjSWW0Z/Agenda-04142735f26310d1e993.jpg",
+tindakan: "https://i.ibb.co/zhc0F39q/Tindakan-f816b3b5ca787bad6274.jpg",
+kepada: "https://i.ibb.co/00PPPWK/Kepada-e9e9297d86a59c0f77f0-1.jpg",
+panjang: "https://i.ibb.co/NgWmYz5L/Panjang-fa1b752a62fac3f57dc2.jpg",
+makna: "https://i.ibb.co/zTr0wst1/Makna-debb5e074613e66a66a1.jpg",
+saat: "https://i.ibb.co/TqkNQ3Ck/Saat-bb5cb9255d278f88f049-1.jpg".
 
-  };
+};
 
 // 3. NAVIGATION & LOGOUT (Dibaiki)
 window.logKeluar = () => {
@@ -771,5 +781,6 @@ setInterval(() => {
     document.body.appendChild(icon);
     setTimeout(() => icon.remove(), 5000);
 }, 2000);
+
 
 
