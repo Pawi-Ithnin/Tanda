@@ -668,7 +668,16 @@ jumpa: "https://i.ibb.co/HT7JVQjq/Jumpa-I-d54c42c9a1c8456be915.jpg",
 tulis: "https://i.ibb.co/39v86t07/Tulis-45016932c60eb1923aaa-1.jpg",
 baju: "https://i.ibb.co/BJ3QGkX/Baju-168a982fb0da42dcdab9-1.jpg",
 tentang: "https://i.ibb.co/DH4j689b/Tentang-8b0d1e2c025970a0c134-2.jpg",
-
+saman: "https://i.ibb.co/XfDxHTjr/Saman-d5231b0bc1ef023e2eb2-1.jpg",
+cara: "https://i.ibb.co/Mk2WGNHp/Cara-a4b5073b5979196d9e88-2.jpg",
+diteruskan: "https://i.ibb.co/1GTypBnp/Diteruskan-9b48fa4ea9e69c83d940.jpg",
+semangat: "https://i.ibb.co/qLcF8R74/Semangat-fec0b7be19b8cd371642-1.jpg",
+harirayaaidilfitri: "https://i.ibb.co/spfH0Hhp/Hari-Raya-Aidilfitri-264e4613ec02c5c69560.jpg", // hari raya aidilfitri,
+pejabat:"https://i.ibb.co/Q18pYv4/Pejabat-caa1f522b27d9c31935a-1.jpg",
+kerajaan: "https://i.ibb.co/xyKRLwN/Kerajaan-cca12bb5e13d3801d6da-1.jpg",
+oksigen: "https://i.ibb.co/FqJ3pnRX/Oksigen-e9830b56de9733b31a3b.jpg",
+diam: "https://i.ibb.co/1tW9c0js/Diam-Senyap-a3d27645c17c69848d0d.jpg",
+senyap: "https://i.ibb.co/1tW9c0js/Diam-Senyap-a3d27645c17c69848d0d.jpg",
 };
 
 // 3. NAVIGATION & LOGOUT (Dibaiki)
@@ -789,6 +798,7 @@ setInterval(() => {
     document.body.appendChild(icon);
     setTimeout(() => icon.remove(), 5000);
 }, 2000);
+
 
 
 
