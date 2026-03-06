@@ -678,6 +678,13 @@ kerajaan: "https://i.ibb.co/xyKRLwN/Kerajaan-cca12bb5e13d3801d6da-1.jpg",
 oksigen: "https://i.ibb.co/FqJ3pnRX/Oksigen-e9830b56de9733b31a3b.jpg",
 diam: "https://i.ibb.co/1tW9c0js/Diam-Senyap-a3d27645c17c69848d0d.jpg",
 senyap: "https://i.ibb.co/1tW9c0js/Diam-Senyap-a3d27645c17c69848d0d.jpg",
+jatuh: "https://i.ibb.co/1G7FxPGn/Jatuh-c30885844df5d6888a49.jpg",
+tetapi: "https://i.ibb.co/dw9FKwvm/Tetapi-2c71a5a0c3cce20ff7e8-1.jpg",
+bahagia: "https://i.ibb.co/4gDx1dSq/Bahagia-Gembira-004a7c536899708bee97.jpg",
+dewan: "https://i.ibb.co/b5wxFyrm/Dewan-1ff3a3fe38c16416c032-2.jpg",
+hotel: "https://i.ibb.co/84N14G2F/Hotel-ff4f747da332d15828cc-2.jpg",
+berak: "https://i.ibb.co/n8Q5c7fs/Berak-d0fe3829afa611b045aa.jpg",
+  
 };
 
 // 3. NAVIGATION & LOGOUT (Dibaiki)
@@ -798,6 +805,7 @@ setInterval(() => {
     document.body.appendChild(icon);
     setTimeout(() => icon.remove(), 5000);
 }, 2000);
+
 
 
 
